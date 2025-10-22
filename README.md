@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="banner.png">
 
 <!--
 **AdriNzzz/AdriNzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
