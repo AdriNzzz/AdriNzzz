@@ -4,10 +4,9 @@
   <p>Systems Analist and Developer by SENAI (Brazilian National Service for Industrial Training) | Fullstack  Developer</p>
 </div>
 
+###
 
 <h2 align="left">🦾 Skills</h2>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
@@ -34,3 +33,4 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/confluence/172B4D" height="60" alt="confluence logo"  />
 </div>
+
