@@ -1,7 +1,7 @@
 <img style="width: 100%; height: auto;" src="assets/banner.png">
 <div>
   <h1>Adrian M Barbosa</h1>
-  <p>Systems Analist and Developer by SENAI (Brazilian National Service for Industrial Training) | Fullstack  Developer</p>
+  <p>Systems Analist and Developer by SENAI (Brazilian National Service for Industrial Training) | Fullstack  Developer | Self-Taught Game Developer and Artist | Founder of Sharpgear Team.</p>
 </div>
 
 ###
@@ -34,3 +34,11 @@
   <img src="https://cdn.simpleicons.org/confluence/172B4D" height="60" alt="confluence logo"  />
 </div>
 
+###
+
+<div>
+  <p>lorem</p>
+  <img src="assets/sharpgear.png" width = "40%" align = "right">
+  <img height = "10%" align = "right">
+
+<div>
