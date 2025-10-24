@@ -1,4 +1,26 @@
-<img style="width: 100%; height: auto" src="banner.png">
+<img style="width: 100%; height: auto;" src="assets/banner.png" alt="adriN banner">
+<div>
+  <h1>Adrian M Barbosa</h1>
+  <p>Systems Analist and Developer by SENAI (Brazilian National Service for Industrial Training) | Fullstack  Developer</p>
+</div>
+
+###
+
+<div>
+  <h1>Skills</h1>
+  <p></p>
+  <div style="display: flex; justify-content: left; gap: 10px;" > 
+    <img width="50" src="assets/skills/cpp.png" alt="">
+    <img width="50" src="assets/skills/cpp.png" alt="">
+    <img width="50" src="assets/skills/cpp.png" alt="">
+    <img width="50" src="assets/skills/cpp.png" alt="">
+    <img width="50" src="assets/skills/cpp.png" alt="">
+    <img width="50" src="assets/skills/cpp.png" alt="">
+    <img width="50" src="assets/skills/cpp.png" alt="">
+    <img width="50" src="assets/skills/cpp.png" alt="">
+    <img width="50" src="assets/skills/cpp.png" alt="">
+  </div>
+</div>
 
 <!--
 **AdriNzzz/AdriNzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
