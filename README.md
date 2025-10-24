@@ -1,4 +1,4 @@
-<img style="width: 100%; height: auto;" src="banner.png" alt="adriN banner">
+<img style="width: 100%; height: auto;" src="banner.pnh">
 <div>
   <h1>Adrian M Barbosa</h1>
   <p>Systems Analist and Developer by SENAI (Brazilian National Service for Industrial Training) | Fullstack  Developer</p>
