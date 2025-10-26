@@ -36,9 +36,13 @@
 
 ###
 
-<div>
-  <p>lorem</p>
-  <img src="assets/sharpgear.png" width = "40%" align = "right">
-  <img height = "10%" align = "right">
+<div align = "left">
+  <img src="assets/sharpgear.png" width = "40%" align = "left">
+
+
+
+  <p width = 40 align="left" >
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia in, quis repellat doloribus rerum tenetur velit consectetur blanditiis quasi illo eos neque harum dolorum ipsam assumenda labore temporibus ratione consequuntur.
+  </p>
 
 <div>
