@@ -38,13 +38,15 @@
 ###
 
 <div align = "left">
-  <img src="https://i.postimg.cc/kXC0h6xM/projectsart.png" width = "20%" align = "left">
+  <img src="https://i.postimg.cc/kXC0h6xM/projectsart.png" width = "40%" align = "left">
 
   <img width = "20" align= "center"/>
 
-  <div align="justify" >
+  <div align="left" >
     I'm Adrian Miguel, a Systems, Games, and Digital Art Developer, as well as the leader and founder of the Sharpgear group.
+    <br>
     I work in different areas of development, with skills in Front-end, Back-end, and Game Development, a field in which I have extensive self-taught experience.
+    <br>
     Since I was young, I've had a strong interest in programming -- I started by creating small mods, and over time, I evolved into developing my own original games, which I continue to actively work on to this day.
   </div>
 
