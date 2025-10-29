@@ -1,4 +1,5 @@
-<img style="width: 100%; height: auto;" src="banner.png">
+<img style="width: 100%; height: auto;" src="https://i.postimg.cc/WbVBfFMR/banner.png">
+
 <div>
   <h1>Adrian M Barbosa</h1>
   <p>Systems Analist and Developer by SENAI (Brazilian National Service for Industrial Training) | Fullstack  Developer | Self-Taught Game Developer and Artist | Founder of Sharpgear Team.</p>
@@ -37,7 +38,7 @@
 ###
 
 <div align = "left">
-  <img src="projectsart.png" width = "40%" align = "left">
+  <img src="https://i.postimg.cc/kXC0h6xM/projectsart.png" width = "40%" align = "left">
 
   <img width = "20" align= "center"/>
 
