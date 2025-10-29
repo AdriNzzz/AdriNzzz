@@ -38,14 +38,14 @@
 ###
 
 <div align = "left">
-  <img src="https://i.postimg.cc/kXC0h6xM/projectsart.png" width = "40%" align = "left">
+  <img src="https://i.postimg.cc/kXC0h6xM/projectsart.png" width = "20%" align = "left">
 
   <img width = "20" align= "center"/>
 
-  <h3 width = 40 align="left" >
-    Sou Adrian Miguel, Desenvolvedor de Sistemas, Jogos e Arte Digital, além de líder e fundador do grupo Sharpgear.
-    Atuo em diferentes áreas do desenvolvimento, com habilidades em Front-end, Back-end e Game Development, campo no qual possuo ampla experiência autodidata.
-    Desde jovem, tenho um forte interesse por programação — comecei criando pequenos mods, e com o tempo, evoluí para o desenvolvimento dos meus próprios jogos autorais, nos quais continuo trabalhando ativamente até hoje.
-  </h3>
+  <div align="justify" >
+    I'm Adrian Miguel, a Systems, Games, and Digital Art Developer, as well as the leader and founder of the Sharpgear group.
+    I work in different areas of development, with skills in Front-end, Back-end, and Game Development, a field in which I have extensive self-taught experience.
+    Since I was young, I've had a strong interest in programming -- I started by creating small mods, and over time, I evolved into developing my own original games, which I continue to actively work on to this day.
+  </div>
 
-<div>
+</div>
