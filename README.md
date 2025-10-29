@@ -50,4 +50,10 @@
     Since I was young, I've had a strong interest in programming -- I started by creating small mods, and over time, I evolved into developing my own original games, which I continue to actively work on to this day.
   </div>
 
+  <div>
+    <img src="https://i.postimg.cc/yNRqWbCk/HELL-O-WORLD-ICON.png" width = "15%"/>
+    <img src="https://i.postimg.cc/yNRqWbCk/HELL-O-WORLD-ICON.png" width = "15%"/>
+    <img src="https://i.postimg.cc/yNRqWbCk/HELL-O-WORLD-ICON.png" width = "15%"/>
+  </div>
+
 </div>
