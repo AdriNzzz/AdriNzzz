@@ -12,7 +12,7 @@
 <h2 align="left">🦾 Skills</h2>
 
 <div align="left">
-  <a href="">
+  <a href="https://github.com/AdriNzzz" text-decoration: none;>
     <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
@@ -65,11 +65,11 @@
       <img src="https://i.postimg.cc/8kJRNNfR/H0W.png" width = "12%"/>
     </a>
     <img width = "10" align= "center"/>
-    <a href="">
+    <a href="https://github.com/AdriNzzz">
       <img src="https://i.postimg.cc/WpFGTTq6/SNLV.png" width = "12%"/>
     </a>
     <img width = "10" align= "center"/>
-    <a href="">
+    <a href="https://github.com/AdriNzzz">
     <img src="https://i.postimg.cc/ZYB844vx/DTRPG.png" width = "12%"/>
     </a>
   </div>
