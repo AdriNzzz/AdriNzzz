@@ -12,35 +12,39 @@
 <h2 align="left">🦾 Skills</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="60" alt="gamemakerstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/confluence/172B4D" height="60" alt="confluence logo"  />
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="60" alt="gamemakerstudio logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=blender" height="60" alt="blender logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/confluence/172B4D" height="60" alt="confluence logo"  />
+  </a>
 </div>
 
 ###
 
 <div align = "left">
-  <img src="https://i.postimg.cc/kXC0h6xM/projectsart.png" width = "40%" align = "left">
+  <a href="">
+    <img src="https://i.postimg.cc/kXC0h6xM/projectsart.png" width = "40%" align = "left">
+  </a>
 
   <img width = "20" align= "center"/>
 
@@ -53,15 +57,21 @@
   </div>
 
   <div align = "center">
+    <a href="https://github.com/SharpgearTeam">
+      <img src="https://i.postimg.cc/NfGrLt5J/SG.png" width = "12%"/>
+    </a>
     <img width = "10" align= "center"/>
-    <img src="https://i.postimg.cc/NfGrLt5J/SG.png" width = "12%"/>
-    <img src="https://i.postimg.cc/8kJRNNfR/H0W.png" width = "12%"/>
+    <a href="https://gx.games/pt-br/games/mzuh34/hell-o-world/">
+      <img src="https://i.postimg.cc/8kJRNNfR/H0W.png" width = "12%"/>
+    </a>
     <img width = "10" align= "center"/>
-    <img src="https://i.postimg.cc/WpFGTTq6/SNLV.png" width = "12%"/>
+    <a href="">
+      <img src="https://i.postimg.cc/WpFGTTq6/SNLV.png" width = "12%"/>
+    </a>
     <img width = "10" align= "center"/>
+    <a href="">
     <img src="https://i.postimg.cc/ZYB844vx/DTRPG.png" width = "12%"/>
-    
-    
+    </a>
   </div>
 
   <hr>
