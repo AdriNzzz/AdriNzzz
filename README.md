@@ -2,7 +2,9 @@
 
 <div>
   <h1>Adrian M Barbosa</h1>
-  <p>Systems Analist and Developer by SENAI (Brazilian National Service for Industrial Training) | Fullstack  Developer | Self-Taught Game Developer and Artist | Founder of Sharpgear Team.</p>
+  <h3>
+    Systems Analist and Developer by SENAI (Brazilian National Service for Industrial Training) | Fullstack  Developer | Self-Taught Game Developer and Artist | Founder of Sharpgear Team.
+  </h3>
 </div>
 
 
@@ -50,10 +52,14 @@
     Since I was young, I've had a strong interest in programming -- I started by creating small mods, and over time, I evolved into developing my own original games, which I continue to actively work on to this day.
   </div>
 
-  <div>
-    <img src="https://i.postimg.cc/yNRqWbCk/HELL-O-WORLD-ICON.png" width = "15%"/>
-    <img src="https://i.postimg.cc/yNRqWbCk/HELL-O-WORLD-ICON.png" width = "15%"/>
-    <img src="https://i.postimg.cc/yNRqWbCk/HELL-O-WORLD-ICON.png" width = "15%"/>
+  <div align = "center">
+    <img src="https://i.postimg.cc/8kJRNNfR/H0W.png" width = "15%"/>
+    <img width = "20" align= "center"/>
+    <img src="https://i.postimg.cc/WpFGTTq6/SNLV.png" width = "15%"/>
+    <img width = "20" align= "center"/>
+    <img src="https://i.postimg.cc/ZYB844vx/DTRPG.png" width = "15%"/>
   </div>
+
+  <HR>
 
 </div>
