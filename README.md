@@ -11,7 +11,7 @@
 
 <h2 align="left">🦾 Skills</h2>
 
-<div align="left" style="gap: 30px">
+<div align="left">
   <a href="https://github.com/AdriNzzz" color= #000000>
     <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
     <img width="12" />
