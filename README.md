@@ -54,7 +54,7 @@
 
   <div align = "center">
     <img width = "10" align= "center"/>
-    <img src="https://i.postimg.cc/hGZ2Zs6s/GITHUB-PROFILE-2.png" width = "12%"/>
+    <img src="https://i.postimg.cc/NfGrLt5J/SG.png" width = "12%"/>
     <img src="https://i.postimg.cc/8kJRNNfR/H0W.png" width = "12%"/>
     <img width = "10" align= "center"/>
     <img src="https://i.postimg.cc/WpFGTTq6/SNLV.png" width = "12%"/>
